@@ -2,7 +2,7 @@ package PerlIO::via::trap;
 require Exporter;
 @ISA = 'Exporter';
 @EXPORT = 'open';
-$VERSION = '0.07';
+$VERSION = '0.09';
 
 use strict;
 use Carp;

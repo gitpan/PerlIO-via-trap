@@ -2,4 +2,4 @@ MANIFEST			This list of files
 MANIFEST.SKIP
 Makefile.PL
 trap.pm
-test.pl
+t/1-basic.t
